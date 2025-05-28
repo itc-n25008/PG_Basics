@@ -1,7 +1,6 @@
 b = 100
 print(b)
 
-
 x = 100
 print(x)
 
@@ -13,4 +12,3 @@ z = x + y
 print(z)
 a = x - y
 print(a)
-
