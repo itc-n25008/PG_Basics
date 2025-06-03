@@ -5,4 +5,3 @@ if n in zisyo:
     print(zisyo)
 else:
     print("見つかりませんでした。")
-
